@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Mail Notice bbPress 1.0
-Plugin URI: http://www.serverpress.com/products/search-bbpress
-Description: Adds bbPress 2.0 to WordPress search results with links back to the forum, topic, and replies.
+Plugin URI: 
+Description: Adds bbPress 2.0 to WordPress new post mail notice.
 Version: 1.0
 Author: Hideaki Oguchi
-Author URI: http://www.steveorevo.com
+Author URI: http://www.bluff.com
 License: OpenSource under GPL2
 */
 
