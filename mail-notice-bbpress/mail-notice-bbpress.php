@@ -91,9 +91,6 @@ class bbPressMailNotice {
 
 			$t_title	= $r['title'];
 			$t_body		= $r['body'];
-// '[' . bb_get_option( 'name' ) . '] ' . $topic->topic_title
-// "[%1\$s]%2\$s"
-// "%1\$s wrote:\n\n%2\$s\n\nRead this post on the forums: %3\$s\n\nYou're getting this email because you subscribed to '%4\$s.'\nPlease click the link above, login, and click 'Unsubscribe' at the top of the page to stop receiving emails from this topic." 
 
 			// For plugins
 			if ( !$message = apply_filters( 'bb_subscription_mail_message', $t_body, $post_id, $topic_id ) ){
