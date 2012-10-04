@@ -5,7 +5,7 @@ Plugin URI:
 Description: Adds bbPress 2.0 to WordPress new post mail notice.
 Version: 1.0
 Author: Hideaki Oguchi
-Author URI: http://www.bluff.com
+Author URI: http://www.bluff-lab.com
 License: OpenSource under GPL2
 */
 
